@@ -1,0 +1,15 @@
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\bin\Debug\net6.0\Kafka.Apache.Demo.exe
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\bin\Debug\net6.0\Kafka.Apache.Demo.deps.json
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\bin\Debug\net6.0\Kafka.Apache.Demo.runtimeconfig.json
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\bin\Debug\net6.0\Kafka.Apache.Demo.dll
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\bin\Debug\net6.0\Kafka.Apache.Demo.pdb
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\obj\Debug\net6.0\Kafka.Apache.Demo.csproj.AssemblyReference.cache
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\obj\Debug\net6.0\Kafka.Apache.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\obj\Debug\net6.0\Kafka.Apache.Demo.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\obj\Debug\net6.0\Kafka.Apache.Demo.AssemblyInfo.cs
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\obj\Debug\net6.0\Kafka.Apache.Demo.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\obj\Debug\net6.0\Kafka.Apache.Demo.dll
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\obj\Debug\net6.0\refint\Kafka.Apache.Demo.dll
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\obj\Debug\net6.0\Kafka.Apache.Demo.pdb
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\obj\Debug\net6.0\Kafka.Apache.Demo.genruntimeconfig.cache
+C:\Users\shubh\source\repos\confluent-cloud-kafka\Kafka.Apache.Solution\Kafka.Apache.Demo\obj\Debug\net6.0\ref\Kafka.Apache.Demo.dll
